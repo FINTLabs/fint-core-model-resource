@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation("no.fintlabs:fint-model-core:0.4.1")
+    implementation("no.fintlabs:fint-model-core:0.5.0")
     implementation("com.fasterxml.jackson.core:jackson-databind:2.15.2")
 
     compileOnly("org.projectlombok:lombok:1.18.28")
