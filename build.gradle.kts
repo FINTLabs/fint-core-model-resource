@@ -7,6 +7,7 @@ group = "no.fintlabs"
 version = "1.0-SNAPSHOT"
 
 repositories {
+    maven("https://repo.fintlabs.no/releases")
     mavenCentral()
 }
 
